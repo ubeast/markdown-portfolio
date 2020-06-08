@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# My H1 header
+
+John Smith
